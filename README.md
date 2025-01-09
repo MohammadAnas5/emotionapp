@@ -1,7 +1,7 @@
 
+#🚀 Emotion Detection Using Computer Vision
 
 ```markdown
-# Emotion Detection Using Computer Vision
 
 This project implements an emotion detection model using computer vision and deep learning techniques. The model is trained to predict emotions from facial images, and it supports the following emotions:
 
@@ -76,6 +76,14 @@ To run this project locally, follow these steps:
 6. **Access the web interface**:
 
    Open a web browser and navigate to `http://127.0.0.1:5000` to see the emotion detection web app in action.
+
+## 🎨 UI Screenshots
+
+### Home Page
+![Home Page](https://www.awesomescreenshot.com/image/52368151?key=f3449751034a76f4cc2c8625d269ce4c)
+
+### Prediction Result
+![Prediction Result](https://www.awesomescreenshot.com/image/52368118?key=6557fb6daff4dc476ba9bae237cfea3f)
 
 ## Model Details
 
