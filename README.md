@@ -2,7 +2,7 @@
 
 
 
-```markdown
+
 
 This project implements an emotion detection model using computer vision and deep learning techniques. The model is trained to predict emotions from facial images, and it supports the following emotions:
 
@@ -81,10 +81,10 @@ To run this project locally, follow these steps:
 ## 🎨 UI Screenshots
 
 ### Home Page
-![Home Page](https://www.awesomescreenshot.com/image/52368151?key=f3449751034a76f4cc2c8625d269ce4c)
+![Home Page](https://github.com/MohammadAnas5/emotionapp/blob/main/images/Emotion%20Detection%20(1).png)
 
 ### Prediction Result
-![Prediction Result](https://www.awesomescreenshot.com/image/52368118?key=6557fb6daff4dc476ba9bae237cfea3f)
+![Prediction Result](https://github.com/MohammadAnas5/emotionapp/blob/main/images/Emotion%20Detection.png)
 
 ## Model Details
 
