@@ -1,18 +1,9 @@
 ## 🚀 Emotion Detection Using Computer Vision
 
 
-
-
-
 This project implements an emotion detection model using computer vision and deep learning techniques. The model is trained to predict emotions from facial images, and it supports the following emotions:
 
-- Angry
-- Disgust
-- Fear
-- Happy
-- Neutral
-- Sad
-- Surprise
+![Home Page](https://github.com/MohammadAnas5/emotionapp/blob/main/images/download.png)
 
 The backend of this project is built using **Flask** for serving the model, while the frontend is developed with **HTML**, **CSS**, and **JavaScript** for a seamless user experience.
 
